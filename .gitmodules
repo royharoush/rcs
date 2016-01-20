@@ -10,3 +10,6 @@
 [submodule "CheatSheets"]
 	path = CheatSheets
 	url = https://github.com/HarmJ0y/CheatSheets.git
+[submodule "cheats"]
+	path = cheats
+	url = https://github.com/lucaswerkmeister/cheats.git
