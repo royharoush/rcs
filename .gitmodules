@@ -13,3 +13,6 @@
 [submodule "cheats"]
 	path = cheats
 	url = https://github.com/lucaswerkmeister/cheats.git
+[submodule "cheat-bash"]
+	path = cheat-bash
+	url = https://github.com/jahendrie/cheat.git
