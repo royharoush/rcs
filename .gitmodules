@@ -1,0 +1,12 @@
+[submodule "security-cheatsheets"]
+	path = security-cheatsheets
+	url = https://github.com/andrewjkerr/security-cheatsheets.git
+[submodule "Cheatsheets"]
+	path = Cheatsheets
+	url = https://github.com/jshaw87/Cheatsheets.git
+[submodule "cheat"]
+	path = cheat
+	url = https://github.com/chrisallenlane/cheat.git
+[submodule "CheatSheets"]
+	path = CheatSheets
+	url = https://github.com/HarmJ0y/CheatSheets.git
