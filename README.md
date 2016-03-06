@@ -5,6 +5,7 @@ submodules for cheatsheets
 install 
 
 cd /opt
+
 git clone https://github.com/royharoush/rcs.git
 
 cd rcs
